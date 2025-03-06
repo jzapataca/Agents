@@ -38,8 +38,17 @@ Debido a limitaciones en la generación de contenido con Ollama, se optó por **
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:  
    `git clone https://github.com/jzapataca/Agents.git`
-2. Instalar dependencias:
+2. Crear venv de Python:
+     `python -m venv .venv`
+3. Activar .venv:
+    `.venv/Scripts/activate`
+4. Instalar dependencias:
    `pip install -r requirements.txt`
+5. Asegurarse que el kernel del notebook `Exploration2.ipynb` (el notebook que se va ejecutar)  se ejecute en el .venv
+6. Colocar la API Key de Gemini que se requiere en el segundo chunk de código , se puede encontrar aquí: https://aistudio.google.com/apikey
+7. Ejecutar todas las celdas del notebook
+8. Al haberse ejecutado la última celda se requerirá al usuario que ingrese el nombre para el pdf a generarse y el temario de la asignatura.
+9. Esperar entre 2 a 3 minutos a que se genere el contenido, este se guardará en la carpeta raíz.
 
 Más Información
 
