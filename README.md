@@ -37,7 +37,7 @@ Debido a limitaciones en la generación de contenido con Ollama, se optó por **
 
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:  
-   `git clone https://github.com/usuario/proyecto-generador-educativo.git`
+   `git clone [https://github.com/usuario/proyecto-generador-educativo.git](https://github.com/jzapataca/Agents.git)`
 2. Instalar dependencias:
    `pip install -r requirements.txt`
 
