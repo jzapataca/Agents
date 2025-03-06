@@ -37,10 +37,11 @@ Debido a limitaciones en la generación de contenido con Ollama, se optó por **
 
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:  
-   `git clone [https://github.com/usuario/proyecto-generador-educativo.git](https://github.com/jzapataca/Agents.git)`
+   `git clone https://github.com/jzapataca/Agents.git`
 2. Instalar dependencias:
    `pip install -r requirements.txt`
 
 Más Información
 
-Para detalles adicionales, consulta la documentación en el siguiente enlace: [Notion del Proyecto](https://pushy-brook-310.notion.site/Construcci-n-de-un-Generador-de-Contenido-Educativo-basado-en-LLM-570d40e4cb5d43c89fdd2fa3d4bea238)
+Para detalles adicionales, consulta la documentación en el siguiente enlace: [Notion del Proyecto](https://pushy-brook-310.notion.site/Construcci-n-de-un-Generador-de-Contenido-Educativo-basado-en-LLM-570d40e4cb5d43c89fdd2fa3d4bea238) 
+Para conocer el paso a paso de la ejecución, se recomienda visualizar el siguiente [video tutorial](https://www.youtube.com/watch?v=GPG772jHE6Y). 
