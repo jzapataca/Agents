@@ -52,5 +52,4 @@ Debido a limitaciones en la generación de contenido con Ollama, se optó por **
 
 Más Información
 
-Para detalles adicionales, consulta la documentación en el siguiente enlace: [Notion del Proyecto](https://pushy-brook-310.notion.site/Construcci-n-de-un-Generador-de-Contenido-Educativo-basado-en-LLM-570d40e4cb5d43c89fdd2fa3d4bea238) 
-Para conocer el paso a paso de la ejecución, se recomienda visualizar el siguiente [video tutorial](https://www.youtube.com/watch?v=GPG772jHE6Y). 
+Para detalles adicionales, consulta la documentación en el siguiente enlace: [Notion del Proyecto](https://pushy-brook-310.notion.site/Construcci-n-de-un-Generador-de-Contenido-Educativo-basado-en-LLM-570d40e4cb5d43c89fdd2fa3d4bea238).
